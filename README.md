@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Health Monitoring System**
 
-- 🌱 I’m currently learning **Embedded systems**
+- 🌱 I’m currently learning **Embedded systems enginering skills**
 
 - 🤝 I’m looking for help with **signal processing**
 
