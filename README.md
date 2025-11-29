@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tohid Beheshti</h1>
 <h3 align="center">A passionate Electrical Engineering student @ UT</h3>
 
+<h3 align="center">A I CREATED THIS REPOSITORY JUST TO SHARE AND DOCUMENT MY BACHELOR'S DEGREE PROJECTS 🔥😎 </h3>
+
 - 🔭 I’m currently working on **Health Monitoring System**
 
 - 🌱 I’m currently learning **Embedded systems**
