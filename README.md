@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Embedded systems enginering skills**
 
-- 🤝 I’m looking for help with **signal processing**
+- 🤝 I’m really passionate about **signal processing**
 
 - 📫 How to reach me **tohid.mr.1382@gmail.com**
 
